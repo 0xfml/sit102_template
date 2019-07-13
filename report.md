@@ -128,6 +128,8 @@ sample text
 
 include graph image
 
+![Burn down graph](./Capture.PNG)
+
 ### This unit will help me in the future:
 [//]:<> (How will the things you learnt relate to the rest of your studies, and career. What have you learnt that will be valuable for you in the future?  )
 sample text
