@@ -1,6 +1,6 @@
 ---
 title: "Learning Summary Report"
-author: ["Tarun Williams", "218284213"]
+author: ["fname lname", "studentid"]
 date: "00-00-2019"
 subject: "Markdown"
 keywords: [Markdown, Example]
@@ -145,5 +145,5 @@ sample text
 
 
 
-[//]: <> (SIT102 .md Template by Tarun Williams)
+[//]: <> (SIT102 .md Template by T.Williams)
 [//]: <> (For student use only.)
